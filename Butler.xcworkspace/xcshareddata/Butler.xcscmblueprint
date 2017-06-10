@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "530CA7EB5ACC93105B9EC7EAC28DFEC88D0346AE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "137A20EBF97A793312D683406D2332F892B0D478" : 9223372036854775807,
+    "530CA7EB5ACC93105B9EC7EAC28DFEC88D0346AE" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "90CACEDB-53F2-46E7-A614-477C893696D6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "137A20EBF97A793312D683406D2332F892B0D478" : "Butler_app\/Butler\/",
+    "530CA7EB5ACC93105B9EC7EAC28DFEC88D0346AE" : "Butler_app\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Butler",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Butler.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/cauvong\/test_app_swift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "137A20EBF97A793312D683406D2332F892B0D478"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/cauvong\/ios_automation.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "530CA7EB5ACC93105B9EC7EAC28DFEC88D0346AE"
+    }
+  ]
+}
